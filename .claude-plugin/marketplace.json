@@ -1,0 +1,20 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "aiclaudelib",
+  "description": "Community Claude Code plugins by aiclaudelib",
+  "owner": {
+    "name": "Daniil Kuznetsov"
+  },
+  "plugins": [
+    {
+      "name": "ccode",
+      "description": "Create Claude Code skills, agents, hooks, MCP integrations, and plugins with guided workflows, validation, documentation knowledge, and review agents",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/aiclaudelib/ccode-plugin.git"
+      },
+      "category": "development",
+      "homepage": "https://github.com/aiclaudelib/ccode-plugin"
+    }
+  ]
+}
