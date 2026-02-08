@@ -15,6 +15,16 @@
       },
       "category": "development",
       "homepage": "https://github.com/aiclaudelib/ccode-plugin"
+    },
+    {
+      "name": "reflect",
+      "description": "Deep AI-powered code analysis. Auto-detects language/framework, screens with Sonnet, deep-analyzes with Opus in isolated context",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/aiclaudelib/reflect-plugin.git"
+      },
+      "category": "analysis",
+      "homepage": "https://github.com/aiclaudelib/reflect-plugin"
     }
   ]
 }
