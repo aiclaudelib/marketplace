@@ -18,7 +18,7 @@
     },
     {
       "name": "reflect",
-      "description": "Deep AI-powered code analysis. Auto-detects language/framework, screens with Sonnet, deep-analyzes with Opus in isolated context",
+      "description": "Autonomous code self-improvement. AI asks itself questions about the code, investigates answers, and fixes what it finds",
       "source": {
         "source": "url",
         "url": "https://github.com/aiclaudelib/reflect-plugin.git"

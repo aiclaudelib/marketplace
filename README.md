@@ -13,7 +13,7 @@ Community Claude Code plugins by aiclaudelib.
 | Plugin | Description | Category |
 |--------|-------------|----------|
 | [ccode](https://github.com/aiclaudelib/ccode-plugin) | Create Claude Code skills, agents, hooks, MCP integrations, and plugins with guided workflows, validation, documentation knowledge, and review agents | development |
-| [reflect](https://github.com/aiclaudelib/reflect-plugin) | Deep AI-powered code analysis. Auto-detects language/framework, screens with Sonnet, deep-analyzes with Opus in isolated context | analysis |
+| [reflect](https://github.com/aiclaudelib/reflect-plugin) | Autonomous code self-improvement. AI asks itself questions, investigates answers, and fixes what it finds | analysis |
 
 ## Installing a Plugin
 
