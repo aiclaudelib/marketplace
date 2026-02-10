@@ -1,0 +1,17 @@
+{
+  "marketplace": "aiclaudelib",
+  "plugins": [
+    {
+      "name": "ccode",
+      "description": "Create Claude Code skills, agents, hooks, MCP integrations, and plugins with guided workflows, validation, documentation knowledge, and review agents",
+      "category": "development",
+      "homepage": "https://github.com/aiclaudelib/ccode-plugin"
+    },
+    {
+      "name": "reflect",
+      "description": "Autonomous code self-improvement. AI asks itself questions about the code, investigates answers, and fixes what it finds",
+      "category": "analysis",
+      "homepage": "https://github.com/aiclaudelib/reflect-plugin"
+    }
+  ]
+}

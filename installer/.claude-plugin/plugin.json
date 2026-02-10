@@ -1,0 +1,9 @@
+{
+  "name": "aiclaudelib",
+  "version": "1.0.0",
+  "description": "Browse and install plugins from the aiclaudelib marketplace",
+  "author": { "name": "Daniil Kuznetsov" },
+  "repository": "https://github.com/aiclaudelib/marketplace",
+  "license": "MIT",
+  "keywords": ["installer", "marketplace", "discovery"]
+}
