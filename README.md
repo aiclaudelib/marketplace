@@ -19,6 +19,7 @@ Then run `/aiclaudelib:install` to browse and install plugins interactively.
 |-----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
 | [ccode](https://github.com/aiclaudelib/ccode-plugin)      | Create Claude Code skills, agents, hooks, MCP integrations, and plugins with guided workflows, validation, documentation knowledge, and review agents | development |
 | [reflect](https://github.com/aiclaudelib/reflect-plugin)  | Autonomous code self-improvement. AI asks itself questions, investigates answers, and fixes what it finds                                             | analysis    |
+| [nodejs-development](https://github.com/aiclaudelib/nodejs-plugin) | Comprehensive Node.js backend development skill covering architecture, testing, security, API design, and TypeScript                          | development |
 | [aiclaudelib](https://github.com/aiclaudelib/marketplace) | Browse and install plugins from the aiclaudelib marketplace with an interactive installer                                                             | utility     |
 
 ## Installing a Plugin

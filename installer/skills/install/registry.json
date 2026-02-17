@@ -12,6 +12,12 @@
       "description": "Autonomous code self-improvement. AI asks itself questions about the code, investigates answers, and fixes what it finds",
       "category": "analysis",
       "homepage": "https://github.com/aiclaudelib/reflect-plugin"
+    },
+    {
+      "name": "nodejs-development",
+      "description": "Comprehensive Node.js backend development skill covering architecture, error handling, validation, testing, database patterns, security, API design, and TypeScript best practices",
+      "category": "development",
+      "homepage": "https://github.com/aiclaudelib/nodejs-plugin"
     }
   ]
 }

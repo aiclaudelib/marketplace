@@ -27,6 +27,16 @@
       "homepage": "https://github.com/aiclaudelib/reflect-plugin"
     },
     {
+      "name": "nodejs-development",
+      "description": "Comprehensive Node.js backend development skill covering architecture, error handling, validation, testing, database patterns, security, API design, and TypeScript best practices",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/aiclaudelib/nodejs-plugin.git"
+      },
+      "category": "development",
+      "homepage": "https://github.com/aiclaudelib/nodejs-plugin"
+    },
+    {
       "name": "aiclaudelib",
       "description": "Browse and install plugins from the aiclaudelib marketplace with an interactive installer",
       "source": "./installer",
