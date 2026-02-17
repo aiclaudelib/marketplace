@@ -18,6 +18,12 @@
       "description": "Comprehensive Node.js backend development skill covering architecture, error handling, validation, testing, database patterns, security, API design, and TypeScript best practices",
       "category": "development",
       "homepage": "https://github.com/aiclaudelib/nodejs-plugin"
+    },
+    {
+      "name": "git",
+      "description": "Git workflow commands, checkpoint management, and expert agent for Claude Code",
+      "category": "development",
+      "homepage": "https://github.com/aiclaudelib/git-plugin"
     }
   ]
 }
