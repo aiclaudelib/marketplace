@@ -57,6 +57,16 @@
       "homepage": "https://github.com/aiclaudelib/playwright-cli-plugin"
     },
     {
+      "name": "code-review",
+      "description": "Automated PR code review using multiple specialized agents with confidence-based scoring to filter false positives",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/aiclaudelib/code-review-plugin.git"
+      },
+      "category": "analysis",
+      "homepage": "https://github.com/aiclaudelib/code-review-plugin"
+    },
+    {
       "name": "aiclaudelib",
       "description": "Browse and install plugins from the aiclaudelib marketplace with an interactive installer",
       "source": "./installer",
